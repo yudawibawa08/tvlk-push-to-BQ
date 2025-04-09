@@ -1,1 +1,0 @@
-# tvlk-push-to-BQ
